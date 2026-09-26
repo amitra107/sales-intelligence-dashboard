@@ -4,6 +4,38 @@ End-to-end sales analytics project using Python, SQL, PostgreSQL and Power BI
 
 
 
+\# Sales Intelligence Dashboard
+
+
+
+\[!\[Live Dashboard](https://img.shields.io/badge/Live-Dashboard-brightgreen)](https://sales-intelligence-dashboard-3xmpvegaptgzvw7ejdlk6e.streamlit.app/)
+
+
+
+!\[Sales Intelligence Dashboard](dashboard\_preview.png)
+
+
+
+An end-to-end sales analytics project that transforms 10,000 sales transactions into actionable business insights using Python, SQL, SQLite and Streamlit.
+
+
+
+\## Live Demo
+
+
+
+\*\*Interactive Dashboard:\*\*  
+
+https://sales-intelligence-dashboard-3xmpvegaptgzvw7ejdlk6e.streamlit.app/
+
+
+
+\*\*Source Code:\*\*  
+
+https://github.com/amitra107/sales-intelligence-dashboard
+
+
+
 \## Key Insights from the Analysis
 
 
